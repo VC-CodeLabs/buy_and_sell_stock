@@ -5,9 +5,9 @@
 
 You are given an array `prices` where `prices[i]` is the price of a given stock on the `i`th day.
 
-Find the maximum profit you can achieve. You may complete at most two transactions (buy and sell).
+Find the maximum profit you can achieve. You may complete at most two transactions (Buy → Sell → Buy → Sell). *(one transaction here means Buy **and** Sell)*
 
-Note: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).
+Note: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again, *see example 2 for clarification*).
 
 ### Constraints:
 
@@ -55,7 +55,8 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 ### Due Date
 All solutions must be submitted through this UI or by email by Feb 12th at 23:59:59
 
-**LeetcodeURL:** https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+**LeetcodeURL:** [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+)
 
  
 
