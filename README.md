@@ -18,6 +18,7 @@ Note: You may not engage in multiple transactions simultaneously (i.e., you must
 
 - **Submit a function/method named `Submission` that will have one parameter `prices` (of type array) and return type integer.**
   - *(for any languages that do not support the concept of functions, please contact me to find a way to submit your code)*
+- If you want to use external libraries that might not be supported by the language by default, please reach out to me or check if they are supported by [Judge0 IDE](https://ide.judge0.com/).
  
 ## Grading
 - Solutions must pass all test cases, including edge cases (tests used for grading will be from the LeetCode testcases)
