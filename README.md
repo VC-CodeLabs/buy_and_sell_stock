@@ -10,9 +10,8 @@ Find the maximum profit you can achieve. You may complete at most two transactio
 Note: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again, *see example 2 for clarification*).
 
 ### Constraints:
-
-- `1 <= prices.length <= 105`
-- `0 <= prices[i] <= 105`
+- `1 <= prices.length <= 10^5`
+- `0 <= prices[i] <= 10^5`
  
  ## Submission:
 
